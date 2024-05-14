@@ -3,8 +3,8 @@ Keybindings and macros for my dotfiles
 
 ## Packages
 
- - [markdown-shortcuts](https://hub.espanso.org/markdown-shortcuts)
- - [cht](https://hub.espanso.org/cht)
+ - [Markdown shortcuts](https://hub.espanso.org/markdown-shortcuts)
+ - [cht Package](https://hub.espanso.org/cht)
     - requires `curl`
  - [What the commit](https://hub.espanso.org/wtc)
     - requires `curl`
