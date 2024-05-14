@@ -1,8 +1,9 @@
+matches:
   - trigger: :dataview
-    replace: |
-      \`\`\`dataview
+    markdown: |
+      ```dataview
       LIST WITHOUT ID file.link
       WHERE file.folder = this.file.folder
       WHERE file != this.file
       SORT file.name ASC
-      \`\`\`
+      ```
